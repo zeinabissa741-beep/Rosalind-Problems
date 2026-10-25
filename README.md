@@ -1,7 +1,7 @@
 
 # Rosalind Bioinformatics Solutions
 
-My solutions to programming problems from [Rosalind](https://rosalind.info/), a platform for learning bioinformatics through problem-solving.
+My solutions to programming problems from [Rosalind](https://rosalind.info/users/zeinabissa741/), a platform for learning bioinformatics through problem-solving.
 
 ## Language
 - Python
